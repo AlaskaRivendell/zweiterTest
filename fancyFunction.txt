@@ -1,0 +1,6 @@
+# das ist eine Fancy Funktion
+
+für diese Funktion wurde der Branch fancy erstellt
+
+hier wird diese neue Funktion entwickelt
+
